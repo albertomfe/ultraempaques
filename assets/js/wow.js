@@ -513,18 +513,3 @@
 }).call(this);
 
 		new WOW().init();
-
-
-
-
-		/*mover el titulo*/
-		var txt=" Agencia de Viajes   ";
-		var espera=200;
-		var refresco=null;
-		function rotulo_title()
-		{
-		document.title=txt;
-		txt=txt.substring(1,txt.length)+txt.charAt(0);
-		refresco=setTimeout("rotulo_title()",espera);
-		}
-		rotulo_title();
