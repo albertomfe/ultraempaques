@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603481218110,
+  "timestamp": 1603549435625,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.aa3ca968c89b4028a426.js",
+        "/main.084fe8e43511cbb53fc8.js",
         "/manifest.webmanifest",
         "/polyfills.35a5ca1855eb057f016a.js",
         "/runtime.acf0dec4155e77772545.js",
@@ -125,8 +125,8 @@
     "/favicon.ico": "9d0ff33d39cefacb7b26363480e12b39dc524e24",
     "/fleje.43035f69f6d5ff2ca874.jpg": "6fe3b1463e3a828a8f3eba83891c81f47a29f39c",
     "/grapa_metalica.108c3556ac156a66906f.jpg": "026a5fc19dfd59d65cb7306e99ed6426738b919c",
-    "/index.html": "ab2271c799509da220e96618e0cd9d145cd4a4ab",
-    "/main.aa3ca968c89b4028a426.js": "af9596a734eaba1c2d91dc6cdc468e444c4fc731",
+    "/index.html": "9ece8b41eeee210e0fafdb64bb755fffd5b279ae",
+    "/main.084fe8e43511cbb53fc8.js": "fb27191e6933880656fa0c16da0f2be92a8c33da",
     "/manifest.webmanifest": "aeefdba7ea2eae8b16e742fdcf44e83e47249c92",
     "/pinza.13271e9c1f93f90cb9a8.jpg": "5cb1de2a60e4810405c6fa7575e72a990b4e125c",
     "/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
